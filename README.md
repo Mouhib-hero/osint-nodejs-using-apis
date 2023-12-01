@@ -1,4 +1,4 @@
-# DevOps Project README
+# DevOps Project & OSINT Cybersecurity Project README
 
 This project is a DevOps exercise that involves Kubernetes, Docker, and a Node.js application. It demonstrates how to containerize and deploy a Node.js application using Kubernetes.
 
